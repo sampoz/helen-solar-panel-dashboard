@@ -1,0 +1,10 @@
+* MVP stuff:
+** TODO Get data from helen
+** TODO Parse csv
+** TODO Show data
+** TODO Calculate the output for you panels
+** TODO Calculate how much the panels have made during the rental time
+** TODO Basic styling
+
+* Future "nice to have" things
+** Get signalR realtime stuff to work
